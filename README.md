@@ -38,4 +38,4 @@ This code was directly obtained. It's for personal use or educational purposes o
 If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
 ## Website Preview
-![preview]()
+![preview](https://github.com/mohsha313/simple-restaurant/blob/main/preview.jpg)
